@@ -2,7 +2,7 @@
 
 **Small data | Big games**
 
-This repository is the home of the data sets for **Shorts in Sports**, a Tableau-based data visualisation community initiative from [Westlake Analytics](https://www.westlakeanalytics.com).
+This repository is the home of the data sets for **Shorts in Sports**, a Tableau-based data visualisation community initiative.
 
 ## What is Shorts in Sports?
 
@@ -12,7 +12,7 @@ A challenge can focus on a single match, a race, a tournament, or one standout p
 
 There is no fixed format and there will never be a right answer. You might go minimalist or highly designed. The point is to take a bite-sized data set and make something of it.
 
-Read the launch post: [Westlake Analytics blog](https://www.westlakeanalytics.com/blog-posts/blog024.html)
+Read the launch post: [Chris's blog](https://www.westlakeanalytics.com/blog-posts/blog024.html) / [Rob's blog](https://thedatataylor.com/blog010.html)
 
 ## How to take part
 
