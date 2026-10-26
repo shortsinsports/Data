@@ -1,0 +1,88 @@
+franchise,year,team,league,division,wins,losses,win_pct,division_finish,postseason,reached_world_series,notes
+Brewers,1969,Seattle Pilots,AL,West,64,98,0.395,6th,None,FALSE,Expansion season as the Seattle Pilots
+Brewers,1970,Milwaukee Brewers,AL,West,65,97,0.401,4th (tie),None,FALSE,Relocated to Milwaukee
+Brewers,1971,Milwaukee Brewers,AL,West,69,92,0.429,6th,None,FALSE,
+Brewers,1972,Milwaukee Brewers,AL,East,65,91,0.417,6th,None,FALSE,Moved to AL East
+Brewers,1973,Milwaukee Brewers,AL,East,74,88,0.457,5th,None,FALSE,
+Brewers,1974,Milwaukee Brewers,AL,East,76,86,0.469,5th,None,FALSE,
+Brewers,1975,Milwaukee Brewers,AL,East,68,94,0.420,5th,None,FALSE,
+Brewers,1976,Milwaukee Brewers,AL,East,66,95,0.410,6th,None,FALSE,
+Brewers,1977,Milwaukee Brewers,AL,East,67,95,0.414,6th,None,FALSE,
+Brewers,1978,Milwaukee Brewers,AL,East,93,69,0.574,3rd,None,FALSE,
+Brewers,1979,Milwaukee Brewers,AL,East,95,66,0.590,2nd,None,FALSE,
+Brewers,1980,Milwaukee Brewers,AL,East,86,76,0.531,3rd,None,FALSE,
+Brewers,1981,Milwaukee Brewers,AL,East,62,47,0.569,Won second-half title,Lost ALDS vs. New York Yankees 3-2,FALSE,Strike-shortened; first half 31-25 and second half 31-22 combined
+Brewers,1982,Milwaukee Brewers,AL,East,95,67,0.586,1st (AL champion),Won ALCS vs. California Angels 3-2; lost World Series vs. St. Louis Cardinals 4-3,TRUE,Only World Series appearance before 2026
+Brewers,1983,Milwaukee Brewers,AL,East,87,75,0.537,5th,None,FALSE,
+Brewers,1984,Milwaukee Brewers,AL,East,67,94,0.416,7th,None,FALSE,
+Brewers,1985,Milwaukee Brewers,AL,East,71,90,0.441,6th,None,FALSE,
+Brewers,1986,Milwaukee Brewers,AL,East,77,84,0.478,6th,None,FALSE,
+Brewers,1987,Milwaukee Brewers,AL,East,91,71,0.562,3rd,None,FALSE,
+Brewers,1988,Milwaukee Brewers,AL,East,87,75,0.537,3rd (tie),None,FALSE,
+Brewers,1989,Milwaukee Brewers,AL,East,81,81,0.500,4th,None,FALSE,
+Brewers,1990,Milwaukee Brewers,AL,East,74,88,0.457,6th,None,FALSE,
+Brewers,1991,Milwaukee Brewers,AL,East,83,79,0.512,4th,None,FALSE,
+Brewers,1992,Milwaukee Brewers,AL,East,92,70,0.568,2nd,None,FALSE,
+Brewers,1993,Milwaukee Brewers,AL,East,69,93,0.426,7th,None,FALSE,
+Brewers,1994,Milwaukee Brewers,AL,Central,53,62,0.461,5th,None,FALSE,Strike-shortened
+Brewers,1995,Milwaukee Brewers,AL,Central,65,79,0.451,4th,None,FALSE,Strike-shortened
+Brewers,1996,Milwaukee Brewers,AL,Central,80,82,0.494,3rd,None,FALSE,
+Brewers,1997,Milwaukee Brewers,AL,Central,78,83,0.484,3rd,None,FALSE,
+Brewers,1998,Milwaukee Brewers,NL,Central,74,88,0.457,5th,None,FALSE,Moved to the National League
+Brewers,1999,Milwaukee Brewers,NL,Central,74,87,0.460,5th,None,FALSE,
+Brewers,2000,Milwaukee Brewers,NL,Central,73,89,0.451,3rd,None,FALSE,
+Brewers,2001,Milwaukee Brewers,NL,Central,68,94,0.420,4th,None,FALSE,
+Brewers,2002,Milwaukee Brewers,NL,Central,56,106,0.346,6th,None,FALSE,Worst season in franchise history
+Brewers,2003,Milwaukee Brewers,NL,Central,68,94,0.420,6th,None,FALSE,
+Brewers,2004,Milwaukee Brewers,NL,Central,67,94,0.416,6th,None,FALSE,
+Brewers,2005,Milwaukee Brewers,NL,Central,81,81,0.500,3rd,None,FALSE,
+Brewers,2006,Milwaukee Brewers,NL,Central,75,87,0.463,4th,None,FALSE,
+Brewers,2007,Milwaukee Brewers,NL,Central,83,79,0.512,2nd,None,FALSE,
+Brewers,2008,Milwaukee Brewers,NL,Central,90,72,0.556,2nd (Wild Card),Lost NLDS vs. Philadelphia Phillies 3-1,FALSE,
+Brewers,2009,Milwaukee Brewers,NL,Central,80,82,0.494,3rd,None,FALSE,
+Brewers,2010,Milwaukee Brewers,NL,Central,77,85,0.475,3rd,None,FALSE,
+Brewers,2011,Milwaukee Brewers,NL,Central,96,66,0.593,1st,Won NLDS vs. Arizona Diamondbacks 3-2; lost NLCS vs. St. Louis Cardinals 4-2,FALSE,
+Brewers,2012,Milwaukee Brewers,NL,Central,83,79,0.512,3rd,None,FALSE,
+Brewers,2013,Milwaukee Brewers,NL,Central,74,88,0.457,4th,None,FALSE,
+Brewers,2014,Milwaukee Brewers,NL,Central,82,80,0.506,3rd,None,FALSE,
+Brewers,2015,Milwaukee Brewers,NL,Central,68,94,0.420,4th,None,FALSE,
+Brewers,2016,Milwaukee Brewers,NL,Central,73,89,0.451,4th,None,FALSE,
+Brewers,2017,Milwaukee Brewers,NL,Central,86,76,0.531,2nd,None,FALSE,
+Brewers,2018,Milwaukee Brewers,NL,Central,96,67,0.589,1st,Won NLDS vs. Colorado Rockies 3-0; lost NLCS vs. Los Angeles Dodgers 4-3,FALSE,Includes tiebreaker game win
+Brewers,2019,Milwaukee Brewers,NL,Central,89,73,0.549,2nd (Wild Card),Lost NL Wild Card Game vs. Washington Nationals 1-0,FALSE,
+Brewers,2020,Milwaukee Brewers,NL,Central,29,31,0.483,4th (Wild Card),Lost NL Wild Card Series vs. Los Angeles Dodgers 2-0,FALSE,60-game season
+Brewers,2021,Milwaukee Brewers,NL,Central,95,67,0.586,1st,Lost NLDS vs. Atlanta Braves 3-1,FALSE,
+Brewers,2022,Milwaukee Brewers,NL,Central,86,76,0.531,2nd,None,FALSE,
+Brewers,2023,Milwaukee Brewers,NL,Central,92,70,0.568,1st,Lost NL Wild Card Series vs. Arizona Diamondbacks 2-0,FALSE,
+Brewers,2024,Milwaukee Brewers,NL,Central,93,69,0.574,1st,Lost NL Wild Card Series vs. New York Mets 2-1,FALSE,
+Brewers,2025,Milwaukee Brewers,NL,Central,97,65,0.599,1st,Won NLDS vs. Chicago Cubs 3-2; lost NLCS vs. Los Angeles Dodgers 4-0,FALSE,
+Brewers,2026,Milwaukee Brewers,NL,Central,103,59,0.636,1st,Won NLDS vs. San Diego Padres; swept Los Angeles Dodgers 4-0 in NLCS (clinched 16 Oct),TRUE,Most wins in MLB; first pennant since 1982 and first as an NL team. World Series starts 23 Oct
+Rays,1998,Tampa Bay Devil Rays,AL,East,63,99,0.389,5th,None,FALSE,Expansion season
+Rays,1999,Tampa Bay Devil Rays,AL,East,69,93,0.426,5th,None,FALSE,
+Rays,2000,Tampa Bay Devil Rays,AL,East,69,92,0.429,5th,None,FALSE,
+Rays,2001,Tampa Bay Devil Rays,AL,East,62,100,0.383,5th,None,FALSE,
+Rays,2002,Tampa Bay Devil Rays,AL,East,55,106,0.342,5th,None,FALSE,Worst season in franchise history
+Rays,2003,Tampa Bay Devil Rays,AL,East,63,99,0.389,5th,None,FALSE,
+Rays,2004,Tampa Bay Devil Rays,AL,East,70,91,0.435,4th,None,FALSE,
+Rays,2005,Tampa Bay Devil Rays,AL,East,67,95,0.414,5th,None,FALSE,
+Rays,2006,Tampa Bay Devil Rays,AL,East,61,101,0.377,5th,None,FALSE,
+Rays,2007,Tampa Bay Devil Rays,AL,East,66,96,0.407,5th,None,FALSE,
+Rays,2008,Tampa Bay Rays,AL,East,97,65,0.599,1st,Won ALDS 3-1; won ALCS 4-3; lost World Series vs. Philadelphia Phillies 4-1,TRUE,Rebranded from Devil Rays; first pennant
+Rays,2009,Tampa Bay Rays,AL,East,84,78,0.519,3rd,None,FALSE,
+Rays,2010,Tampa Bay Rays,AL,East,96,66,0.593,1st,Lost ALDS 3-2,FALSE,
+Rays,2011,Tampa Bay Rays,AL,East,91,71,0.562,2nd (Wild Card),Lost ALDS 3-1,FALSE,
+Rays,2012,Tampa Bay Rays,AL,East,90,72,0.556,3rd,None,FALSE,
+Rays,2013,Tampa Bay Rays,AL,East,92,71,0.564,2nd (Wild Card),Won AL Wild Card Game; lost ALDS 3-1,FALSE,
+Rays,2014,Tampa Bay Rays,AL,East,77,85,0.475,4th,None,FALSE,
+Rays,2015,Tampa Bay Rays,AL,East,80,82,0.494,4th,None,FALSE,
+Rays,2016,Tampa Bay Rays,AL,East,68,94,0.420,5th,None,FALSE,
+Rays,2017,Tampa Bay Rays,AL,East,80,82,0.494,3rd,None,FALSE,
+Rays,2018,Tampa Bay Rays,AL,East,90,72,0.556,3rd,None,FALSE,
+Rays,2019,Tampa Bay Rays,AL,East,96,66,0.593,2nd (Wild Card),Won AL Wild Card Game; lost ALDS 3-2,FALSE,
+Rays,2020,Tampa Bay Rays,AL,East,40,20,0.667,1st,Won AL Wild Card Series 2-0; won ALDS 3-2; won ALCS 4-3; lost World Series vs. Los Angeles Dodgers 4-2,TRUE,60-game season; second pennant
+Rays,2021,Tampa Bay Rays,AL,East,100,62,0.617,1st,Lost ALDS 3-1,FALSE,
+Rays,2022,Tampa Bay Rays,AL,East,86,76,0.531,3rd (Wild Card),Lost AL Wild Card Series 2-0,FALSE,
+Rays,2023,Tampa Bay Rays,AL,East,99,63,0.611,2nd (Wild Card),Lost AL Wild Card Series 2-0,FALSE,
+Rays,2024,Tampa Bay Rays,AL,East,80,82,0.494,4th,None,FALSE,
+Rays,2025,Tampa Bay Rays,AL,East,77,85,0.475,4th,None,FALSE,
+Rays,2026,Tampa Bay Rays,AL,East,98,64,0.605,1st,Swept New York Yankees in ALDS; beat Cleveland Guardians 4-2 in ALCS (clinched 19 Oct),TRUE,Third pennant. World Series starts 23 Oct vs Milwaukee
